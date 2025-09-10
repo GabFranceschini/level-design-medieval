@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bd59f61b857375d49af650206d2f5379
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 271318
+  packageName: Modular Castle & Dungeon (Medieval Castle, Castles, Dungeons, Dungeon,
+    Castle)
+  packageVersion: 2.1
+  assetPath: Assets/Hivemind/CastleOfEternalMists/HDRP(Default)/Art/Shaders/S_Foliage.shadergraph
+  uploadId: 777444
