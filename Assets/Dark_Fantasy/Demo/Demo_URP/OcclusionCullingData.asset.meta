@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd80f8787e5c6ad4b88b215fa19b422a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 36300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155143
+  packageName: Dark Fantasy Gigantic Environment
+  packageVersion: 1.0
+  assetPath: Assets/Dark_Fantasy/Demo/Demo_URP/OcclusionCullingData.asset
+  uploadId: 462348

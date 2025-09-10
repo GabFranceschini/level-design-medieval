@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f9137bf5112f6945a668999ebfc3da2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 155143
+  packageName: Dark Fantasy Gigantic Environment
+  packageVersion: 1.0
+  assetPath: Assets/Dark_Fantasy/Assets/RP/URP/Pipeline/UniversalRenderPipelineAsset.asset
+  uploadId: 462348
