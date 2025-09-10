@@ -1,0 +1,65 @@
+# OS Generated
+# ============
+._*
+.DS_Store
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Dd]esktop.ini
+[Tt]humbs.db
+
+# IDE Generated
+# =============
+.vs/
+.consulo/
+.gradle/
+*.tmp
+*.mdb
+*.opendb
+*.svd
+*.tmp
+*.VC.db
+*.booproj
+*.csproj
+*.pdb
+*.pidb
+*.sln
+*.suo
+*.unityproj
+*.user
+*.userprefs
+[Ee]xported[Oo]bj/
+
+# Unity Generated
+# ===============
+.*/
+*.stackdump
+*.pdb.meta
+*.pidb.meta
+*.mdb.meta
+*.symbols.zip
+sysinfo.txt
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+[Ll]ogs/
+[Mm]emory[Cc]aptures/
+[Oo]bj/
+[Tt]emp/
+[Uu]ser[Ss]ettings/
+
+# Misc
+# ====
+__*
+Assets/AssetStoreTools
+Assets/Project/External/SteamVR
+crashlytics-build.properties
+
+# Project generated
+# =================
+ScreenCapture/
+*.mp4
+Assets/Project/Extermal/Versatile Studio Assets/Demo City By Versatile Studio/Scenes/demo_city_night/
+Assets/Project/Models/Enviroment/Castle/fantastic_castle (1).glb
+Assets/Project/Models/Enviroment/Castle/fantastic_castle (1).glb.meta
+Assets/Project/Extermal/Realistic Effects Pack 3/
